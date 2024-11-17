@@ -8,8 +8,6 @@ This repository contains code and data for predicting flight delays using machin
 - [Usage](#usage)
 - [Data](#data)
 - [Models](#models)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Flight delays can cause significant inconvenience to passengers and airlines. This project aims to predict flight delays using historical flight data and machine learning techniques.
